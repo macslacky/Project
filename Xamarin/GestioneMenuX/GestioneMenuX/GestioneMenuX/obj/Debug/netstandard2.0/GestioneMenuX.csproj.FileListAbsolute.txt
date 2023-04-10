@@ -1,0 +1,15 @@
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\bin\Debug\netstandard2.0\GestioneMenuX.deps.json
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\bin\Debug\netstandard2.0\GestioneMenuX.dll
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\bin\Debug\netstandard2.0\GestioneMenuX.pdb
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.csproj.AssemblyReference.cache
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.AssemblyInfoInputs.cache
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.AssemblyInfo.cs
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.csproj.CoreCompileInputs.cache
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.dll
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\refint\GestioneMenuX.dll
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\GestioneMenuX.pdb
+C:\Users\antonio\source\repos\GestioneMenuX\GestioneMenuX\GestioneMenuX\obj\Debug\netstandard2.0\ref\GestioneMenuX.dll

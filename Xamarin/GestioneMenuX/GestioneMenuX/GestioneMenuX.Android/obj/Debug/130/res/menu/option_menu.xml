@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/context_1" android:title="@string/context01" /><item android:id="@+id/context_2" android:title="@string/context02" /><item android:id="@+id/context_3" android:title="@string/context03" /></menu>
