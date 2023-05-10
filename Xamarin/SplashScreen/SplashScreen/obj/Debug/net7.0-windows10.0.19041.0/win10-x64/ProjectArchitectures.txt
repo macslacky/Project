@@ -1,0 +1,1 @@
+D:\Utenti\Progetti App\Maui\SplashScreen\SplashScreen\SplashScreen.csproj;x64
