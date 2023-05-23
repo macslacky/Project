@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="LoginDemo.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:LoginDemo"
+    xmlns:page="clr-namespace:LoginDemo.Page"
+    Shell.FlyoutBehavior="Disabled">
+    <ShellContent Title="Home" ContentTemplate="{DataTemplate page:LoadingPage}" Route="loading" />
+    <ShellContent Title="Login" ContentTemplate="{DataTemplate page:LoginPage}" Route="login" />
+    <TabBar>
+        <Tab Title="Home" Icon="house_door_fill.svg">
+            <ShellContent Icon="house_door_fill.svg" Title="Home" ContentTemplate="{DataTemplate page:HomePage}" Route="home" />
+        </Tab>
+        <Tab Title="Setting" Icon="gear_fill.svg">
+            <ShellContent Icon="gear_fill.svg" Title="Setting" ContentTemplate="{DataTemplate page:SettingsPage}" Route="setting" />
+        </Tab>
+    </TabBar>
+</Shell>

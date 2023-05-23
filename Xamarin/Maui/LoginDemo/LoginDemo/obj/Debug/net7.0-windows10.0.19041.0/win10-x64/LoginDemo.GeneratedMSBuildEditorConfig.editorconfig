@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LoginDemo
+build_property.ProjectDir = D:\Utenti\Progetti App\Maui\LoginDemo\LoginDemo\
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Page/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Page.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\HomePage.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Page/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Page.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\LoadingPage.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Page/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Page.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\LoginPage.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Page/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Page.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page\SettingsPage.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Utenti/Progetti App/Maui/LoginDemo/LoginDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

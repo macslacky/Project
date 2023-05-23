@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SqLiteDemo.AboutPage"
+             Title="AboutPage">
+    <Grid RowDefinitions="Auto, *">
+        <StackLayout Grid.Row="1" Spacing="20">
+            <Label FontSize="22">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="Notes" FontAttributes="Bold" FontSize="22" />
+                            <Span Text=" v1.0" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+            <Label Text="Questa app è scritta in XAML and C# con .NET MAUI Xamarin" />
+
+            <Button Text="info" Clicked="OnBtnClicked" />
+        </StackLayout>
+    </Grid>
+</ContentPage>

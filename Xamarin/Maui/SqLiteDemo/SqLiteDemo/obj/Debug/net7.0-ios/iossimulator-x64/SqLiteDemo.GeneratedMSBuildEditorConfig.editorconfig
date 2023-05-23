@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SqLiteDemo
+build_property.ProjectDir = D:\Utenti\Progetti App\Maui\SqLiteDemo\SqLiteDemo\
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/NoteEntryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.NoteEntryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NoteEntryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NoteEntryPage.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/NotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.NotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NotesPage.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Utenti/Progetti App/Maui/SqLiteDemo/SqLiteDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SqLiteDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

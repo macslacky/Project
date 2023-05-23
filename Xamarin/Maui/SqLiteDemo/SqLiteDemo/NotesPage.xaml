@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SqLiteDemo"
+             x:Class="SqLiteDemo.NotesPage"
+             Title="NotesPage">
+    <ContentPage.ToolbarItems>
+        <!-- menu displayed in the main navigation bar -->
+        <ToolbarItem Order="Secondary" Text="Add" Clicked="OnAddClicked" />
+    </ContentPage.ToolbarItems>
+
+    <CollectionView x:Name="collectionView" SelectionMode="Single" SelectionChanged="OnSelectionChanged">
+        <CollectionView.ItemsLayout>
+            <!-- specifies the layout to be used -->
+            <LinearItemsLayout Orientation="Vertical" ItemSpacing="10" />
+        </CollectionView.ItemsLayout>
+
+        <!-- flexible view defined by setting the ItemTemplate property -->
+        <CollectionView.ItemTemplate>
+            <!-- it alternately selects one or two background colors as it fills the list -->
+            <local:BkgColorTemplate>
+                <local:BkgColorTemplate.unoTemplate>
+                        <DataTemplate>
+                        <Frame BorderColor="Gray" CornerRadius="10" BackgroundColor="White">
+                            <!--StackLayout BackgroundColor="White"-->
+                            <Label Text="{Binding Titolo}" FontSize="Medium" />
+                            <Label Text="{Binding dataAgg}" FontSize="Small" />
+                            <!--/StackLayout-->
+                        </Frame>
+                    </DataTemplate>
+                    </local:BkgColorTemplate.unoTemplate>
+
+                <local:BkgColorTemplate.dueTemplate>
+                    <DataTemplate>
+                        <Frame BorderColor="Gray" CornerRadius="10" BackgroundColor="AliceBlue">
+                            <!--StackLayout BackgroundColor="AliceBlue"-->
+                            <Label Text="{Binding Titolo}" FontSize="Medium" />
+                            <Label Text="{Binding dataAgg}" FontSize="Small" />
+                            <!--/StackLayout-->
+                        </Frame>
+                    </DataTemplate>
+                </local:BkgColorTemplate.dueTemplate>
+            </local:BkgColorTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>
